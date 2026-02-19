@@ -98,7 +98,14 @@ button:hover {
 
 .dark-mode {
     background-color:#222;
-    color:rgb(8, 8, 8);
+    color:rgb(243, 238, 238);
+    .card {
+        background: #2e2c2c;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
 }
 
 .hidden {
