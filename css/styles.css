@@ -98,7 +98,7 @@ button:hover {
 
 .dark-mode {
     background-color:#222;
-    color:white;
+    color:rgb(8, 8, 8);
 }
 
 .hidden {
