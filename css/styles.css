@@ -1,4 +1,4 @@
-/* || Global Styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -12,13 +12,13 @@ body {
     padding: 20px;
 }
 
-/* || Layout Structure */
+
 .container {
     max-width: 800px;
     margin: 0 auto;
 }
 
-/* || Card Styling */
+
 .card {
     background: #ffffff;
     padding: 20px;
@@ -27,7 +27,7 @@ body {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* || Typography */
+
 h1 {
     text-align: center;
     margin-bottom: 10px;
@@ -38,13 +38,13 @@ h2 {
     margin-top: 20px;
 }
 
-/* || Lists */
+
 ul {
     margin-left: 20px;
     margin-bottom: 10px;
 }
 
-/* || Hyperlinks */
+
 a {
     text-decoration: none;
     color: #0077cc;
@@ -54,7 +54,7 @@ a:hover {
     color: #005fa3;
 }
 
-/* || Table Styling */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -71,7 +71,7 @@ th {
     color: white;
 }
 
-/* || Contact Form */
+
 form {
     display: flex;
     flex-direction: column;
