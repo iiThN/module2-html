@@ -1,9 +1,11 @@
 function Card({ title, children }) {
     return (
-        <section className="card">
-         <h2>{title}</h2>
-         {children}
-        </section>
+        <div className= "container">
+            <section className="card">
+            <h2>{title}</h2>
+            {children}
+            </section>
+        </div>
     );
 }
 export default Card;

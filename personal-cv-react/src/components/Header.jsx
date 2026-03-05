@@ -1,9 +1,11 @@
 function Header() {
 return (
-<header class="card">
-    <h1>Anthony Capuras</h1>
-    <p>IT Student | Web Systems and Technologies</p>
-</header>
+<div className= "container">
+    <header class="card">
+        <h1>Anthony Capuras</h1>
+        <p>IT Student | Web Systems and Technologies</p>
+    </header>
+</div>
 );
 }
 export default Header;
