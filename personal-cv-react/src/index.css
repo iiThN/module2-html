@@ -20,7 +20,7 @@ body {
 
 
 .card {
-    background: #E6D6B2;
+    background: #ffffff;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -67,7 +67,7 @@ th, td {
 }
 
 th {
-    background-color: #0077cc;
+    background-color: #E5A27C;
     color: white;
 }
 
@@ -105,6 +105,13 @@ button:hover {
         margin-bottom: 20px;
         border-radius: 8px;
         box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    button {
+        padding: 10px;
+        background-color: #ffffff;
+        color: rgb(0, 0, 0);
+        border: none;
+        cursor: pointer;
     }
 }
 
