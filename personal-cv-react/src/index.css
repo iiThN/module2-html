@@ -113,6 +113,10 @@ button:hover {
         border: none;
         cursor: pointer;
     }
+    th {
+        background-color: #222020;
+        color: white;
+    }
 }
 
 .hidden {
