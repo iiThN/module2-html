@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #E6D2B8;
     padding: 20px;
 }
 
@@ -20,7 +20,7 @@ body {
 
 
 .card {
-    background: #ffffff;
+    background: #E6D6B2;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -86,7 +86,7 @@ input, textarea {
 
 button {
     padding: 10px;
-    background-color: #0077cc;
+    background-color: #E6B492;
     color: white;
     border: none;
     cursor: pointer;
