@@ -21,11 +21,13 @@ return (
         <input
             type="text"
             value={name}
+             placeholder="Name"
             onChange={(e) => setName(e.target.value)}
         />
         <input
             type="email"
             value={email}
+            placeholder="Email"
             onChange={(e) => setEmail(e.target.value)}
         />
             <textarea placeholder="Message"></textarea>
