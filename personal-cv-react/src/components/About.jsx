@@ -1,8 +1,13 @@
 import profile from "../assets/profile.jpg";
+import Card from "./Card";
 function About() {
 return (
 <section class="card">
-    <h2>About Me</h2>
+    <Card title="About Me">
+        <p>This is my personal profile.</p>
+    </Card>
+    );
+
     <img src={profile} alt="Profile" className="about-img" />
     <p>I’m a second-year IT student who enjoys quiet moments, good music, and a warm cup of coffee.</p>
 
