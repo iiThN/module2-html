@@ -8,8 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #E6D2B8;
-    padding: 20px;
+    background-color: #4e4436;
 }
 
 
@@ -47,11 +46,11 @@ ul {
 
 a {
     text-decoration: none;
-    color: #0077cc;
+    color: #e6cf3e;
 }
 
 a:hover {
-    color: #005fa3;
+    color: #ebd767;
 }
 
 
@@ -67,7 +66,7 @@ th, td {
 }
 
 th {
-    background-color: #E5A27C;
+    background-color: #685733;
     color: white;
 }
 
@@ -86,21 +85,28 @@ input, textarea {
 
 button {
     padding: 10px;
-    background-color: #E6B492;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #685733;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #005fa3;
+    background-color: #ebd767;
 }
 
 .dark-mode {
-    background-color:#222;
+    background-color:#0B0F1A;
     color:rgb(243, 238, 238);
+    a {
+    text-decoration: none;
+    color: #6fabdb;
+}
     .card {
-        background: #222020;
+        background: #131A2E;
         padding: 20px;
         margin-bottom: 20px;
         border-radius: 8px;
@@ -114,7 +120,7 @@ button:hover {
         cursor: pointer;
     }
     th {
-        background-color: #222020;
+        background-color: #0E1323;
         color: white;
     }
 }
